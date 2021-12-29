@@ -1,0 +1,5 @@
+2021/12/23-14:57:33.257 4c3 Creating DB /home/killswitch/.config/chromium/Default/IndexedDB/https_web.skype.com_0.indexeddb.leveldb since it was missing.
+2021/12/23-14:57:33.267 4c3 Reusing MANIFEST /home/killswitch/.config/chromium/Default/IndexedDB/https_web.skype.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/23-14:57:56.003 49f Level-0 table #5: started
+2021/12/23-14:57:56.020 49f Level-0 table #5: 1409758 bytes OK
+2021/12/23-14:57:56.025 49f Delete type=0 #3

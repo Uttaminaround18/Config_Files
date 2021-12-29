@@ -1,0 +1,14 @@
+2021/12/29-13:38:47.214 4d0 Reusing MANIFEST /home/killswitch/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/29-13:38:47.214 4d0 Recovering log #144
+2021/12/29-13:38:47.215 4d0 Reusing old log /home/killswitch/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000144.log 
+2021/12/29-13:38:47.215 4d0 Delete type=2 #142
+2021/12/29-13:38:47.288 5fd Level-0 table #149: started
+2021/12/29-13:38:47.292 5fd Level-0 table #149: 2186 bytes OK
+2021/12/29-13:38:47.297 5fd Delete type=0 #144
+2021/12/29-13:38:47.297 5fd Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at '\x00$\x00\x00\x05' @ 2016 : 1
+2021/12/29-13:38:47.297 5fd Compacting 1@0 + 1@1 files
+2021/12/29-13:38:47.300 5fd Generated table #150@0: 47 keys, 1712 bytes
+2021/12/29-13:38:47.300 5fd Compacted 1@0 + 1@1 files => 1712 bytes
+2021/12/29-13:38:47.305 5fd compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/29-13:38:47.305 5fd Delete type=2 #149
+2021/12/29-13:38:47.306 4d0 Manual compaction at level-0 from '\x00$\x00\x00\x05' @ 2016 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)

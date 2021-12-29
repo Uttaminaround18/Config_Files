@@ -1,0 +1,6 @@
+2021/12/14-17:23:04.818 3b2d Creating DB /home/killswitch/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb since it was missing.
+2021/12/14-17:23:04.830 3b2d Reusing MANIFEST /home/killswitch/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/14-17:38:03.577 3b2d Level-0 table #5: started
+2021/12/14-17:38:03.580 3b2d Level-0 table #5: 827 bytes OK
+2021/12/14-17:38:03.584 3b2d Delete type=0 #3
+2021/12/14-17:38:03.585 3b2d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

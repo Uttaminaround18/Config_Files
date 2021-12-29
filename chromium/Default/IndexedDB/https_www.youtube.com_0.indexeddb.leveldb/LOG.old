@@ -1,0 +1,15 @@
+2021/12/29-14:11:23.260 e93 Reusing MANIFEST /home/killswitch/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/29-14:11:23.260 e93 Recovering log #134
+2021/12/29-14:11:23.276 e93 Reusing old log /home/killswitch/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000134.log 
+2021/12/29-17:03:01.662 1f35 Level-0 table #139: started
+2021/12/29-17:03:01.673 1f35 Level-0 table #139: 741342 bytes OK
+2021/12/29-17:03:01.678 1f35 Delete type=0 #134
+2021/12/29-17:03:01.679 1f35 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/29-17:03:01.679 1f35 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x1f\x033\xe3B\x06\xa8\xe0wB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 499926 : 1
+2021/12/29-17:03:01.679 1f35 Compacting 1@1 + 1@2 files
+2021/12/29-17:03:01.686 1f35 Generated table #140@1: 595 keys, 32839 bytes
+2021/12/29-17:03:01.686 1f35 Compacted 1@1 + 1@2 files => 32839 bytes
+2021/12/29-17:03:01.692 1f35 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/29-17:03:01.692 1f35 Delete type=2 #139
+2021/12/29-17:03:01.692 1f35 Delete type=2 #136
+2021/12/29-17:03:01.692 1f35 Manual compaction at level-1 from '\x00\x09\x01\x1f\x033\xe3B\x06\xa8\xe0wB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 499926 : 1 .. (end); will stop at (end)

@@ -1,0 +1,7 @@
+2021/12/16-23:25:21.558 16819 Reusing MANIFEST /home/killswitch/.config/chromium/Default/IndexedDB/https_www.sejda.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/16-23:25:21.558 16819 Recovering log #3
+2021/12/16-23:25:21.558 16819 Reusing old log /home/killswitch/.config/chromium/Default/IndexedDB/https_www.sejda.com_0.indexeddb.leveldb/000003.log 
+2021/12/16-23:25:27.871 16915 Level-0 table #5: started
+2021/12/16-23:25:27.875 16915 Level-0 table #5: 1377 bytes OK
+2021/12/16-23:25:27.880 16915 Delete type=0 #3
+2021/12/16-23:25:27.881 16915 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

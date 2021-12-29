@@ -1,0 +1,40 @@
+{
+   "checksum": "5c3a6323aa141aedf9b93d84ca182325",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13278147557457103",
+            "guid": "7f7bacd6-de88-458d-888c-6e464d6afc7c",
+            "id": "5",
+            "name": "terminal colour script - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=terminal+colour+script+&bih=952&biw=1892&hl=en&sxsrf=AOaemvIAs1FUhuEJXHxxf-btl4hlU0ElOg%3A1633673298865&ei=UuBfYbibNMrG4-EPzcGliAc&ved=0ahUKEwi4jKGlk7rzAhVK4zgGHc1gCXEQ4dUDCA4&uact=5&oq=terminal+colour+script+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECc6CwgAEIAEELEDEIMBOhEILhCABBCxAxCDARDHARDRAzoICAAQgAQQsQM6CAgAELEDEIMBOgQIABBDOgcIABCxAxBDOhAIABCABBCHAhCxAxCDARAUOg0IABCABBCHAhCxAxAUOgUIABCRAjoECC4QQzoICC4QgAQQsQM6BQgAEIAEOgsILhCxAxDHARDRAzoHCC4QsQMQQzoLCC4QgAQQxwEQrwFKBAhBGABQkQVYuRlg2iBoAHACeACAAfUCiAHBEpIBBzAuMy42LjGYAQCgAQHAAQE&sclient=gws-wiz"
+         } ],
+         "date_added": "13278144060448118",
+         "date_modified": "13278147557457103",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13278144060448119",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13278144060448120",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

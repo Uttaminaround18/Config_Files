@@ -1,0 +1,15 @@
+2021/12/22-14:26:40.895 1363 Reusing MANIFEST /home/killswitch/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/22-14:26:40.896 1363 Recovering log #4
+2021/12/22-14:26:40.896 1363 Reusing old log /home/killswitch/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2021/12/22-14:27:22.044 13cb Level-0 table #8: started
+2021/12/22-14:27:22.050 13cb Level-0 table #8: 275476 bytes OK
+2021/12/22-14:27:22.055 13cb Delete type=0 #4
+2021/12/22-14:27:22.055 13cb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/22-14:27:22.055 13cb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x01\x02\x01@\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00H\x00i\x00t\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00a\x00i\x00l\x00.\x00g\x00o\x00o\x00g\x00l\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/\x00?\x00t\x00a\x00b\x00=\x00r\x00m' @ 2820 : 1
+2021/12/22-14:27:22.055 13cb Compacting 1@1 + 1@2 files
+2021/12/22-14:27:22.065 13cb Generated table #9@1: 158 keys, 266983 bytes
+2021/12/22-14:27:22.065 13cb Compacted 1@1 + 1@2 files => 266983 bytes
+2021/12/22-14:27:22.069 13cb compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/22-14:27:22.069 13cb Delete type=2 #5
+2021/12/22-14:27:22.069 13cb Delete type=2 #8
+2021/12/22-14:27:22.070 13cb Manual compaction at level-1 from '\x00\x0a\x01\x02\x01@\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00H\x00i\x00t\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00a\x00i\x00l\x00.\x00g\x00o\x00o\x00g\x00l\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/\x00?\x00t\x00a\x00b\x00=\x00r\x00m' @ 2820 : 1 .. (end); will stop at (end)

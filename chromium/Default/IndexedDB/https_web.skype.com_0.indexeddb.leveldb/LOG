@@ -1,0 +1,57 @@
+2021/12/23-14:58:58.174 49f Reusing MANIFEST /home/killswitch/.config/chromium/Default/IndexedDB/https_web.skype.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/23-14:58:58.174 49f Recovering log #4
+2021/12/23-14:58:58.180 49f Reusing old log /home/killswitch/.config/chromium/Default/IndexedDB/https_web.skype.com_0.indexeddb.leveldb/000004.log 
+2021/12/23-15:00:21.479 49e Level-0 table #8: started
+2021/12/23-15:00:21.500 49e Level-0 table #8: 1464607 bytes OK
+2021/12/23-15:00:21.505 49e Delete type=0 #4
+2021/12/23-15:00:24.750 49f Compacting 1@1 + 1@2 files
+2021/12/23-15:00:24.782 49f Generated table #9@1: 6462 keys, 916837 bytes
+2021/12/23-15:00:24.782 49f Compacted 1@1 + 1@2 files => 916837 bytes
+2021/12/23-15:00:24.787 49f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/23-15:00:24.787 49f Delete type=2 #5
+2021/12/23-15:00:24.787 49f Delete type=2 #8
+2021/12/23-15:02:29.746 4c3 Level-0 table #11: started
+2021/12/23-15:02:29.768 4c3 Level-0 table #11: 1871900 bytes OK
+2021/12/23-15:02:29.773 4c3 Delete type=0 #7
+2021/12/23-15:02:35.296 49f Compacting 1@1 + 1@2 files
+2021/12/23-15:02:35.325 49f Generated table #12@1: 6680 keys, 942739 bytes
+2021/12/23-15:02:35.325 49f Compacted 1@1 + 1@2 files => 942739 bytes
+2021/12/23-15:02:35.329 49f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/23-15:02:35.330 49f Delete type=2 #11
+2021/12/23-15:02:35.330 49f Delete type=2 #9
+2021/12/23-15:04:10.669 49f Level-0 table #14: started
+2021/12/23-15:04:10.692 49f Level-0 table #14: 2086197 bytes OK
+2021/12/23-15:04:10.697 49f Delete type=0 #10
+2021/12/23-15:04:18.456 4c5 Compacting 1@1 + 1@2 files
+2021/12/23-15:04:18.483 4c5 Generated table #15@1: 6812 keys, 947856 bytes
+2021/12/23-15:04:18.483 4c5 Compacted 1@1 + 1@2 files => 947856 bytes
+2021/12/23-15:04:18.488 4c5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/23-15:04:18.488 4c5 Delete type=2 #12
+2021/12/23-15:04:18.488 4c5 Delete type=2 #14
+2021/12/23-15:23:53.463 9a7 Level-0 table #17: started
+2021/12/23-15:23:53.484 9a7 Level-0 table #17: 1264958 bytes OK
+2021/12/23-15:23:53.489 9a7 Delete type=0 #13
+2021/12/23-15:25:18.190 a8e Compacting 1@1 + 1@2 files
+2021/12/23-15:25:18.215 a8e Level-0 table #20: started
+2021/12/23-15:25:18.219 a8e Level-0 table #20: 42961 bytes OK
+2021/12/23-15:25:18.224 a8e Delete type=0 #16
+2021/12/23-15:25:18.234 a8e Generated table #18@1: 10285 keys, 1297800 bytes
+2021/12/23-15:25:18.234 a8e Compacted 1@1 + 1@2 files => 1297800 bytes
+2021/12/23-15:25:18.238 a8e compacted to: files[ 1 0 1 0 0 0 0 ]
+2021/12/23-15:25:18.238 a8e Delete type=2 #15
+2021/12/23-15:25:18.238 a8e Delete type=2 #17
+2021/12/23-15:25:18.238 a8e Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x08\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\x08@\x03\x00\xc0\xe5qk\xdewB\x00\x01$\x009\x000\x00d\x007\x004\x00e\x009\x000\x00-\x00d\x009\x003\x000\x00-\x004\x00d\x000\x000\x00-\x009\x00e\x009\x005\x00-\x002\x006\x00f\x00f\x008\x009\x00e\x00c\x00b\x005\x000\x00e' @ 93492 : 1
+2021/12/23-15:25:18.238 a8e Compacting 1@0 + 0@1 files
+2021/12/23-15:25:18.242 a8e Generated table #21@0: 671 keys, 22632 bytes
+2021/12/23-15:25:18.242 a8e Compacted 1@0 + 0@1 files => 22632 bytes
+2021/12/23-15:25:18.247 a8e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/23-15:25:18.247 a8e Delete type=2 #20
+2021/12/23-15:25:18.247 a8e Manual compaction at level-0 from '\x00\x01\x08\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\x08@\x03\x00\xc0\xe5qk\xdewB\x00\x01$\x009\x000\x00d\x007\x004\x00e\x009\x000\x00-\x00d\x009\x003\x000\x00-\x004\x00d\x000\x000\x00-\x009\x00e\x009\x005\x00-\x002\x006\x00f\x00f\x008\x009\x00e\x00c\x00b\x005\x000\x00e' @ 93492 : 1 .. (end); will stop at (end)
+2021/12/23-15:25:18.247 a8e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x08\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\x08@\x03\x00\xc0\xe5qk\xdewB\x00\x01$\x009\x000\x00d\x007\x004\x00e\x009\x000\x00-\x00d\x009\x003\x000\x00-\x004\x00d\x000\x000\x00-\x009\x00e\x009\x005\x00-\x002\x006\x00f\x00f\x008\x009\x00e\x00c\x00b\x005\x000\x00e' @ 93492 : 1
+2021/12/23-15:25:18.247 a8e Compacting 1@1 + 1@2 files
+2021/12/23-15:25:18.274 a8e Generated table #22@1: 9768 keys, 1273469 bytes
+2021/12/23-15:25:18.274 a8e Compacted 1@1 + 1@2 files => 1273469 bytes
+2021/12/23-15:25:18.278 a8e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/23-15:25:18.278 a8e Delete type=2 #18
+2021/12/23-15:25:18.278 a8e Delete type=2 #21
+2021/12/23-15:25:18.279 a8e Manual compaction at level-1 from '\x00\x01\x08\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\x08@\x03\x00\xc0\xe5qk\xdewB\x00\x01$\x009\x000\x00d\x007\x004\x00e\x009\x000\x00-\x00d\x009\x003\x000\x00-\x004\x00d\x000\x000\x00-\x009\x00e\x009\x005\x00-\x002\x006\x00f\x00f\x008\x009\x00e\x00c\x00b\x005\x000\x00e' @ 93492 : 1 .. (end); will stop at (end)
